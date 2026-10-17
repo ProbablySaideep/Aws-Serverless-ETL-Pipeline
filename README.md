@@ -73,6 +73,6 @@ The workflow is completely decoupled, relying on S3 event triggers, AWS Lambda, 
 
 ## Connect with me!
 - If you're interested in my work, feel free to reach out!
-- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" style="vertical-align:middle"> saideepmacherla](https://www.linkedin.com/in/saideepmacherla)
-- [<img src="https://cdn-worldvectorlogo.com/logos/tableau-software.svg" width="20" height="20" style="vertical-align:middle"> Saideep Macherla - Vizzes](https://public.tableau.com/app/profile/saideep.macherla/vizzes)
-- [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" height="20" style="vertical-align:middle"> saideepmacherla@gmail.com](mailto:saideepmacherla@gmail.com)
+* [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" style="vertical-align:middle"> saideepmacherla](https://www.linkedin.com/in/saideepmacherla)
+* [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="20" height="20" style="vertical-align:middle"> Saideep Macherla - Vizzes](https://public.tableau.com/app/profile/saideep.macherla/vizzes)
+* [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" height="20" style="vertical-align:middle"> saideepmacherla@gmail.com](mailto:saideepmacherla@gmail.com)
