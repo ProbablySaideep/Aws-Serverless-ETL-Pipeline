@@ -1,0 +1,20 @@
+DROP TABLE IF EXISTS clinic_db.cleaned_appointments;
+
+CREATE EXTERNAL TABLE clinic_db.cleaned_appointments (
+    new_id INT,
+    patient_name STRING,
+    age INT,
+    gender STRING,
+    appointment_date STRING,
+    booking_date STRING,
+    doctor STRING,
+    department STRING,
+    billing_amount DOUBLE,
+    follow_up_required STRING
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+ESCAPED BY '\\'
+LINES TERMINATED BY '\n'
+LOCATION 's3://clinic-processed-data/data/'
+TBLPROPERTIES ("skip.header.line.count"="1");

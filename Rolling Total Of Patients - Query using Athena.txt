@@ -1,0 +1,8 @@
+SELECT *
+FROM clinic_db.cleaned_appointments
+ORDER BY new_id ASC;
+
+select department, count(*) as patient_count, sum(count(*)) over(order by department) as rolling_total_patients
+from clinic_db.cleaned_appointments
+group by department
+order by department asc;
